@@ -1,0 +1,26 @@
+body{
+	background-color: #8E41D5;
+}
+
+h2{
+	color: gold;
+	font-size: 40px;
+	font-family: Do Hyeon;
+}
+
+legend{
+	color: #EEED0D;
+	font-size: 30px;
+	font-family: Lato;
+}
+
+#field {
+	padding-bottom: 8px;
+	color: #EEED0D;
+	font-size: 17px;
+	font-family: Lato;
+}
+
+input{
+	background-color: #EEED0D;
+}
